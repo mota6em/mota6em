@@ -1,6 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi, I'm Motasem</h1>
-<h3 align="center">A passionate frontend developer from Palestine𓂆</h3>
+<h1 align="center">Hi, I'm Motasem Abubaraka</h1>
+<h3 align="center">A passionate frontend developer & CS student at ELTE - Budapest</h3>
+<h4 align="center">From Gaza strip, Palestine</h4>
 <p align="left">
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="mota6em" /> </p>
 
