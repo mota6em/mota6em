@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.lambdatest.com/resources/images/news24.gif](https://dribbble.com/shots/6581243-Digital-Marketing/attachments/6581243-Digital-Marketing?mode=media))](https://github.com/jayanth119)
+[![MasterHead]([https://www.lambdatest.com/resources/images/news24.gif](https://dribbble.com/shots/6581243-Digital-Marketing/attachments/6581243-Digital-Marketing?mode=media))](https://github.com/mota6em)
 
 <h1 align="center">Hi, I'm Motasem Abubaraka</h1>
 <h3 align="center">A passionate frontend developer & CS student at ELTE - Budapest</h3>
