@@ -1,5 +1,5 @@
 <a href="https://github.com/mota6em">
-  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" style="width: 100vw; max-height: 150px;" alt="MasterHead">
+  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" style="width: 100vw; height: 150px;" alt="MasterHead">
 </a>
 
 <h1 align="center">Hi, I'm Motasem Abubaraka</h1>
