@@ -45,9 +45,6 @@
 </p>
 
 
-<a href="https://github.com/mota6em">
-  <img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" style="width: 100vw;" alt="MasterHead">
-</a>
 <h4 align="center">
 <div style="width: 600px; margin: auto; font-family: 'Georgia', serif; font-size: 20px; text-align: center; padding: 20px;">
     <p>“In the end, it's not the years in your life that count. It's the life in your years.” – Abraham Lincoln</p>
