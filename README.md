@@ -1,18 +1,20 @@
 <h1 align="center">Hi, I'm Motasem Abubaraka</h1>
 <h3 align="center">A passionate frontend developer & CS student at ELTE - Budapest, from Gaza City, Palestine.</h3>
 <a href="https://github.com/mota6em">
-  <img src="https://camo.githubusercontent.com/5dd958963277e29a5da3c53b758daab0ec77de8de08d1b80eb94c7cd7065dabb/68747470733a2f2f70726f736566756c2e696d6769782e6e65742f626c6f67732f64663337333431342d653737632d346433642d386337622d3335636635356632333339362f696d616765732f34336263316535372d356665662d343436302d626630382d3466373966333635343535352e676966" style="width: 100vw;" alt="MasterHead">
+  <img src="https://camo.githubusercontent.com/c1d5e9bcfd8bd9c5cd549a25f15a8a72a12a0d55b81e35ed75ffe212435934eb/68747470733a2f2f7472697379612e636f6d2f6d79696d672f6368696c642f5765627369746525323044657369676e2e676966" style="width: 100vw;" alt="MasterHead">
 </a>
-<h4 align="center"></h4>
 
+<h4 align="center">
+  <div style="width: 600px; margin: 100px; font-family: 'Arial', sans-serif; font-size: 20px; text-align: center; padding: 20px;">
+      <p>“The only way to do great work is to love what you do.” – Steve Jobs</p>
+  </div>  
+</h4>
 <p align="left">
-<img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="mota6em" /> </p>
-<div style="width: 600px; margin: auto; font-family: 'Arial', sans-serif; font-size: 20px; text-align: center; padding: 20px;">
-    <p>“The only way to do great work is to love what you do.” – Steve Jobs</p>
-</div>
+<img  align="right" alt="Coding" width="400" src="https://global.discourse-cdn.com/codecademy/original/5X/0/0/a/9/00a9a928ae1a95a27ab08bcbf1fd243bcf88a491.png" alt="mota6em" /> </p>
+
 - 🌱 I’m currently learning **React with TypeScript**
 
-- 💬 Feel free to ask me about **React, JavaScript**
+- 💬 Feel free to ask me about **React, JavaScript, CSS, TypeScript, HTML, JAVA, NextJS**
 
 - 📫 How to reach me **mota6em@gmail.com**
 
@@ -47,3 +49,9 @@
 <a href="https://github.com/mota6em">
   <img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" style="width: 100vw;" alt="MasterHead">
 </a>
+<h4 align="center">
+<div style="width: 600px; margin: auto; font-family: 'Georgia', serif; font-size: 20px; text-align: center; padding: 20px;">
+    <p>“In the end, it's not the years in your life that count. It's the life in your years.” – Abraham Lincoln</p>
+</div>
+
+</h4>
