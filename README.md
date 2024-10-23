@@ -1,7 +1,6 @@
 <a href="https://github.com/mota6em">
-  <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" style="height: 199px;" alt="MasterHead">
+  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" style="height: 300px;" alt="MasterHead">
 </a>
-
 <h1 align="center">Hi, I'm Motasem Abubaraka</h1>
 <h3 align="center">A passionate frontend developer & CS student at ELTE - Budapest</h3>
 <h4 align="center">From Gaza strip, Palestine</h4>
