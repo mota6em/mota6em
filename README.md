@@ -1,8 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Motasem</h1>
-<h3 align="center">A passionate frontend developer from Palestine</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-<p align="left"> <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="mota6em" /> </p>
+<h3 align="center">A passionate frontend developer from Palestine𓂆</h3>
+<p align="left">
+<img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="mota6em" /> </p>
 
 - 🌱 I’m currently learning **React with TypeScript**
 
