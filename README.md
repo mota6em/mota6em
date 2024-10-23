@@ -1,12 +1,15 @@
 <h1 align="center">Hi, I'm Motasem Abubaraka</h1>
-<h3 align="center">A passionate frontend developer & CS student at ELTE - Budapest</h3>
-<h4 align="center">From Gaza strip, Palestine</h4>
+<h3 align="center">A passionate frontend developer & CS student at ELTE - Budapest, from Gaza City, Palestine.</h3>
 <a href="https://github.com/mota6em">
-  <img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" style="width: 100vw;" alt="MasterHead">
+  <img src="https://camo.githubusercontent.com/5dd958963277e29a5da3c53b758daab0ec77de8de08d1b80eb94c7cd7065dabb/68747470733a2f2f70726f736566756c2e696d6769782e6e65742f626c6f67732f64663337333431342d653737632d346433642d386337622d3335636635356632333339362f696d616765732f34336263316535372d356665662d343436302d626630382d3466373966333635343535352e676966" style="width: 100vw;" alt="MasterHead">
 </a>
+<h4 align="center"></h4>
+
 <p align="left">
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="mota6em" /> </p>
-
+<div style="width: 600px; margin: auto; font-family: 'Arial', sans-serif; font-size: 20px; text-align: center; padding: 20px;">
+    <p>“The only way to do great work is to love what you do.” – Steve Jobs</p>
+</div>
 - 🌱 I’m currently learning **React with TypeScript**
 
 - 💬 Feel free to ask me about **React, JavaScript**
@@ -40,4 +43,7 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mota6em&show_icons=true&locale=en" alt="mota6em" /></p>
+
+<a href="https://github.com/mota6em">
+  <img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" style="width: 100vw;" alt="MasterHead">
+</a>
