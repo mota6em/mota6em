@@ -1,10 +1,9 @@
-<a href="https://github.com/mota6em">
-  <img src=https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif
-"" style="width: 100vw;" alt="MasterHead">
-</a>
 <h1 align="center">Hi, I'm Motasem Abubaraka</h1>
 <h3 align="center">A passionate frontend developer & CS student at ELTE - Budapest</h3>
 <h4 align="center">From Gaza strip, Palestine</h4>
+<a href="https://github.com/mota6em">
+  <img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" style="width: 100vw;" alt="MasterHead">
+</a>
 <p align="left">
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="mota6em" /> </p>
 
