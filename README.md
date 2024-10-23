@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://github.com/jayanth119)
 <h1 align="center">Hi, I'm Motasem Abubaraka</h1>
 <h3 align="center">A passionate frontend developer & CS student at ELTE - Budapest</h3>
 <h4 align="center">From Gaza strip, Palestine</h4>
