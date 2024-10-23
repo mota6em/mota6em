@@ -12,7 +12,6 @@
 <p align="left">
 <img  align="right" alt="Coding" width="400" src="https://global.discourse-cdn.com/codecademy/original/5X/0/0/a/9/00a9a928ae1a95a27ab08bcbf1fd243bcf88a491.png" alt="mota6em" /> </p>
 
-- 🌱 I’m currently learning **React with TypeScript**
 
 - 💬 Feel free to ask me about **React, JavaScript, CSS, TypeScript, HTML, JAVA, NextJS**
 
