@@ -1,7 +1,7 @@
 <a href="https://github.com/mota6em">
-  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" style="width: 100vw; height: 150px;" alt="MasterHead">
+  <img src=https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif
+"" style="width: 100vw;" alt="MasterHead">
 </a>
-
 <h1 align="center">Hi, I'm Motasem Abubaraka</h1>
 <h3 align="center">A passionate frontend developer & CS student at ELTE - Budapest</h3>
 <h4 align="center">From Gaza strip, Palestine</h4>
