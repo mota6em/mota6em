@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Motasem Abubaraka</h1>
-<h3 align="center">A passionate frontend developer & CS student at ELTE - Budapest, from Gaza City, Palestine.</h3>
+<h3 align="center">A passionate web developer & CS student at ELTE - Budapest</h3>
 <a href="https://github.com/mota6em">
   <img src="https://camo.githubusercontent.com/c1d5e9bcfd8bd9c5cd549a25f15a8a72a12a0d55b81e35ed75ffe212435934eb/68747470733a2f2f7472697379612e636f6d2f6d79696d672f6368696c642f5765627369746525323044657369676e2e676966" style="width: 100vw;" alt="MasterHead">
 </a>
